@@ -1,1 +1,3 @@
 sqlalchemy
+flake8==3.5.0
+pycodestyle==2.3.1
